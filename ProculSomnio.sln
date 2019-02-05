@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{4346AA24-1BF8-4445-ADA1-A75E58BA4D9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProculSomnio", "ProculSomnio\ProculSomnio.vcxproj", "{2FCCA9AE-2681-4722-9B15-AEFAC873F624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCCA9AE-2681-4722-9B15-AEFAC873F624}.Debug|x64.ActiveCfg = Debug|x64
+		{2FCCA9AE-2681-4722-9B15-AEFAC873F624}.Debug|x64.Build.0 = Debug|x64
+		{2FCCA9AE-2681-4722-9B15-AEFAC873F624}.Release|x64.ActiveCfg = Release|x64
+		{2FCCA9AE-2681-4722-9B15-AEFAC873F624}.Release|x64.Build.0 = Release|x64
+		{4346AA24-1BF8-4445-ADA1-A75E58BA4D9F}.Debug|x64.ActiveCfg = Debug|x64
+		{4346AA24-1BF8-4445-ADA1-A75E58BA4D9F}.Debug|x64.Build.0 = Debug|x64
+		{4346AA24-1BF8-4445-ADA1-A75E58BA4D9F}.Release|x64.ActiveCfg = Release|x64
+		{4346AA24-1BF8-4445-ADA1-A75E58BA4D9F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DEF468C-52B2-4E2D-84FA-5354D7AFC0B1}
+	EndGlobalSection
+EndGlobal
